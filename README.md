@@ -2,13 +2,14 @@
 
 ---
 
-<p align="center">
-  <img src="assets/logos/python.png" alt="Python" width="80" style="margin: 0 15px;"/>
-  <img src="assets/logos/pandas.png" alt="Pandas" width="80" style="margin: 0 15px;"/>
-  <img src="assets/logos/numpy.png" alt="NumPy" width="80" style="margin: 0 15px;"/>
-  <img src="assets/logos/sklearn.png" alt="Scikit-Learn" width="80" style="margin: 0 15px;"/>
-  <img src="assets/logos/jupyter.png" alt="Jupyter" width="80" style="margin: 0 15px;"/>
+<p align="left">
+  <img src="assets/logos/python.png" width="80" style="margin-right: 17px;"/>
+  <img src="assets/logos/pandas.png" width="80" style="margin-right: 17px;"/>
+  <img src="assets/logos/numpy.png" width="80" style="margin-right: 17px;"/>
+  <img src="assets/logos/sklearn.png" width="80" style="margin-right: 17px;"/>
+  <img src="assets/logos/jupyter.png" width="80"/>
 </p>
+
 
 ---
 
