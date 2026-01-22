@@ -17,7 +17,7 @@
 Dieses Projekt wurde im Rahmen des Moduls **Grundlagen der Künstlichen Intelligenz** an der TU Clausthal durchgeführt.  
 Ziel ist es, ein Machine-Learning-Modell zu entwickeln, das betrügerische Transaktionen auf der Zahlungs- und E-Commerce-Plattform **Xente** erkennt.
 
-Der Datensatz stammt aus der *Xente Fraud Detection Challenge* auf Zindi und enthält numerische und kategoriale Merkmale zu mehreren Millionen Transaktionen.
+Der Datensatz stammt aus der *Xente Fraud Detection Challenge* auf Zindi und enthält rund 140.000 Transaktionen mit numerischen und kategorialen Merkmalen.
 
 Der Fokus des Projekts liegt auf:
 
