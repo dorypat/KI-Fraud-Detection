@@ -148,7 +148,7 @@ This repository will be updated progressively as the project advances.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/KI-Fraud-Detection.git
+git clone https://github.com/Bernardtouck/KI-Fraud-Detection.git
 cd KI-Fraud-Detection
 ```
 
