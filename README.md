@@ -96,6 +96,9 @@ The project follows a standard Machine Learning workflow:
 ```text
 KI-Fraud-Detection/
 │
+├── assets/                   # Static and non-experimental resources
+│   └── logos/
+│
 ├── data/                     # Data directory (not tracked)
 │   ├── raw/                  # Original dataset (not included)
 │   └── processed/            # Cleaned and preprocessed data
@@ -106,26 +109,22 @@ KI-Fraud-Detection/
 │   ├── 03_modeling.ipynb      # Model training & tuning
 │   └── 04_evaluation.ipynb    # Model evaluation & metrics
 │
+├── results/
+│   ├── figures/               # Visual results
+│   └── metrics/               # Numerical evaluation results
+│
 ├── src/                      # Reusable Python modules
 │   ├── data/                 # Data loading and preprocessing logic
 │   │   └── preprocessing.py
 │   ├── features/             # Feature engineering functions
-│   │   └── build_features.py
+│   │   └── features.py
 │   ├── models/               # Model training and inference
 │   │   └── train_model.py
 │   └── evaluation/           # Evaluation metrics and plots
-│       └── evaluate.py
-│
-├── assets/                   # Project assets
-│   ├── figures/              # Generated plots and charts
-│   │   ├── class_distribution.png
-│   │   ├── feature_distributions.png
-│   │   └── roc_curve.png
-│   └── logos/                # Logos and illustrations
-│
-├── requirements.txt          # Python dependencies
+│       └── evaluation.py
+├── .gitignore                # Files and folders to ignore
 ├── README.md                 # Project documentation
-└── .gitignore                # Files and folders to ignore
+└── requirements.txt          # Python dependencies
 ```
 
 
